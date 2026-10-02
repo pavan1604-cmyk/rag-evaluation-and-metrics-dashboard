@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+pymupdf
+sentence-transformers
+faiss-cpu
+groq
+scikit-learn
+plotly
+python-dotenv
+ragas
+datasets
